@@ -1,0 +1,68 @@
+.banners {
+
+    height: 300px;
+    width: 100%;
+
+}
+
+#divheader {
+
+    background-image: url(img/banner.jpg);
+    background-size: auto;
+    
+
+}
+
+#divheadertext {
+
+    text-align: center;
+    font-size: xx-large;
+    color: #00CC00;
+    font-family: fantasy;
+
+}
+
+body {
+
+    background-color: black;
+    
+    
+}
+
+#DEDSECLOGO {
+
+    border: 2px;
+    height: 200px;
+    width: 200px;
+    border-color: #00CC00;
+    align-self: center;
+    
+    
+    
+}
+
+.parrafos {
+
+    font-family: fantasy;
+    font-size: small;
+    color: #00CC00;
+    
+
+}
+
+#nav {
+
+    font-family: fantasy;
+    font-size: large;
+    color: #00CC00;
+
+}
+
+footer {
+
+font-family: 'Courier New', Courier, monospace;
+color: indigo;
+font-size: small;
+
+
+}
